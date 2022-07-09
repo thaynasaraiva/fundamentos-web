@@ -1,0 +1,70 @@
+/* Estilos da pa´gina index.html */
+.center {
+    text-align: center;
+    color: #0D0D0D;
+}
+
+.title {
+    color: #0D0D0D;
+    text-align: center;
+}
+
+.topic {
+   color:#BF0449;
+   text-align: center;
+}
+
+.paragrafo {
+    text-align: justify;
+    color: #990803;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: #0D0D0D;
+    font-size: 20px;
+}
+
+#menu li a:hover {
+    color: #F2F2F2
+}
+
+.image {
+
+    border-radius: 10px;
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.wh-300 { 
+    width: 300px;
+    height: 300px;
+}
+
+.tm-social {
+    width: 50px;
+    height: 50px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.ml-50 {
+    margin-left: 50px;
+}
